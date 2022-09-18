@@ -1,6 +1,10 @@
 ### Hi there 👋
+
+### :bar_chart: GitHub Status
+
 ![Kayke981's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayke981&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayke981&layout=compact)](https://github.com/kayke981)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayke981&layout=compact&color=#5500ff)](https://github.com/kayke981)
 
 
 <!--
