@@ -26,7 +26,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Contact with me on
+## 💬 Contact with me on
 ![Discord](https://img.shields.io/badge/kayake%238605-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 📊 GitHub Status
