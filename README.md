@@ -27,7 +27,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Contact with me on
-![Discord](https://img.shields.io/badge/kayke%238605-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/kayake%238605-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 📊 GitHub Status
 
