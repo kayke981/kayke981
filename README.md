@@ -29,8 +29,8 @@
 ## 💬 Contact with me on
 ![Discord](https://img.shields.io/badge/kayake%238506-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-### 📊 GitHub Status
+### 📊 GitHub Analysts
 
 ![Kayke981's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayke981&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayke981&layout=compact&color=#5500ff)](https://github.com/kayke981)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayke981&layout=compact&theme=radical)](https://github.com/kayke981)
