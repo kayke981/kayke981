@@ -31,6 +31,6 @@
 
 ### 📊 GitHub Analysts
 
-![Kayke981's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayke981&show_icons=true&theme=radical)
+![Kayke981's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayke981&show_icons=true&bg_color=000001&title_color=5b00ff&text_color=5b00ff&icon_color=5b00ff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayke981&layout=compact&theme=radical)](https://github.com/kayke981)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayke981&layout=compact&theme=dracula)](https://github.com/kayke981)
